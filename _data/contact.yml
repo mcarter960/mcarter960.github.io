@@ -6,9 +6,9 @@
 - type: twitter
   icon: "fa-brands fa-x-twitter"
 
-- type: email
-  icon: "fas fa-envelope"
-  noblank: true # open link in current tab
+- type: youtube
+  icon: 'fab fa-youtube'
+  url: 'https://www.youtube.com/channel/UCp7_Lu2rzRCu5GUytJCm8wQ'
 
 - type: rss
   icon: "fas fa-rss"
